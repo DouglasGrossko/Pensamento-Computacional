@@ -1,4 +1,4 @@
-# Pensamento-Computacional
+# Pensamento-Computacional-JogoPong
 
 Projeto realizado na disciplina de Pensamnto Computacional.
  
